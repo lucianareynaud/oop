@@ -40,3 +40,8 @@ Syntax and order match the init method. I am initializing this specific shirt wi
 
 Initializing the t-shirt:running the function, we have an output object. The output is a shirt object, and all the letters and numbers is python giving the location and memory where the object is stored. But this isn't very useful unless we store the object in a variable. So in the next slide, we will store the object in a variable. Shirt object will stored in the variable new shirt. The new shirt variable has a color, size, style and price associated with it. You can access these attributes using the dot syntax. 
 
+Scrolling down, you use the same dot syntax to access the methods as well, except, you also need to specify any inputs that these methods require. For example, to change the price, I call the change_price method with a value of 10. Running this code you can see that the price changed from 15 to 10. The same goes for the discount method.  
+
+![image](https://user-images.githubusercontent.com/7238176/126899809-3a420f50-87be-4079-95c6-12f6097c4a5d.png)
+
+
