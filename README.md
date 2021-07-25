@@ -35,3 +35,6 @@ The word `self` is just a convention. You could actually use any other name as
 
 ![image](https://user-images.githubusercontent.com/7238176/126899651-e3992616-d376-4f65-b99b-ae567615d5de.png)
 
+Syntax to create a new shirt object. The yntax order matches the init method. **This is called instantiating an object**.
+Syntax and order match the init method. I am initializing this specific shirt with the attributes. Python is going to call the init method to initialize this shirt object.
+
