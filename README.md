@@ -48,5 +48,8 @@ In the last part, I instantiate three shirt objects, and stored those objects in
 
 ![image](https://user-images.githubusercontent.com/7238176/126899834-738894a8-c6cc-4bde-969a-a629db84a168.png)
 
+![image](https://user-images.githubusercontent.com/7238176/126900579-435e1bc6-b7cf-445c-833a-e561fe465c40.png)
+
+
 
 
