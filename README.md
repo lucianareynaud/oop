@@ -32,3 +32,6 @@ defchange_price(self, new_price):
 `Self` tells Python where to look in the computer's memory for the `shirt_one` object. Then, Python changes the price of the `shirt_one` object. When you call the `change_price` method, `shirt_one.change_price(12)`, `self` is implicitly passed in.
 
 The word `self` is just a convention. You could actually use any other name as long as you are consisten, but you should use `self` to avoid confusing people.
+
+![image](https://user-images.githubusercontent.com/7238176/126899651-e3992616-d376-4f65-b99b-ae567615d5de.png)
+
