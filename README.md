@@ -44,4 +44,9 @@ Scrolling down, you use the same dot syntax to access the methods as well, excep
 
 ![image](https://user-images.githubusercontent.com/7238176/126899809-3a420f50-87be-4079-95c6-12f6097c4a5d.png)
 
+In the last part, I instantiate three shirt objects, and stored those objects in a list. These variables are like any other python variable.  Once he stored the shirts into the tshirt_collection list, he then ran a for loop to print out the color of each shirt. 
+
+![image](https://user-images.githubusercontent.com/7238176/126899834-738894a8-c6cc-4bde-969a-a629db84a168.png)
+
+
 
