@@ -38,3 +38,5 @@ The word `self` is just a convention. You could actually use any other name as
 Syntax to create a new shirt object. The yntax order matches the init method. **This is called instantiating an object**.
 Syntax and order match the init method. I am initializing this specific shirt with the attributes. Python is going to call the init method to initialize this shirt object.
 
+Initializing the t-shirt:running the function, we have an output object. The output is a shirt object, and all the letters and numbers is python giving the location and memory where the object is stored. But this isn't very useful unless we store the object in a variable. So in the next slide, we will store the object in a variable. Shirt object will stored in the variable new shirt. The new shirt variable has a color, size, style and price associated with it. You can access these attributes using the dot syntax. 
+
