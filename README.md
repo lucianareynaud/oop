@@ -112,19 +112,23 @@ Why might it be better to change a value with a method instead of directly? Chan
 Example: Dollars versus Euros
 If you've changed attribute values directly, you'll have to go through your code and find all the places where US dollars were used, such as in the following:
 
-```shirt_one.price = 10 # US dollars```
+```shirt_one.price = 10 # US dollars
+```
 
 Then, you'll have to manually change them to Euros.
 
-```shirt_one.price = 8 # Euros```
+```shirt_one.price = 8 # Euros
+```
 
 If you had used a method, then you would only have to change the method to convert from dollars to Euros.
 
 
 ```def change_price(self, new_price):
-    self.price = new_price * 0.81 # convert dollars to Euros```
+    self.price = new_price * 0.81 # convert dollars to Euros
+    ```
 
-```shirt_one.change_price(10)```
+```shirt_one.change_price(10)
+```
 For the purposes of this introduction to object-oriented programming, you don't need to worry about updating attributes directly versus with a method; however, if you decide to further your study of object-oriented programming, especially in another language such as C++ or Java, you'll have to take this into consideration.
 
 Modularized code
