@@ -56,6 +56,8 @@ Converting everything from dollars to euros at the method value (not attributes,
 
 ![image](https://user-images.githubusercontent.com/7238176/126900788-ae5fbc3b-e356-4f26-90e4-35ce6e467499.png)
 
+![image](https://user-images.githubusercontent.com/7238176/126900812-6cbe1389-d186-4cd2-bcab-cbd754e9314e.png)
+
 
 
 
