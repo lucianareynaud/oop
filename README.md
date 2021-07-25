@@ -52,6 +52,11 @@ In the last part, I instantiate three shirt objects, and stored those objects in
 
 ![image](https://user-images.githubusercontent.com/7238176/126900650-8aae74ef-df58-4767-b7db-c2e5d0afb2d6.png)
 
+Converting everything from dollars to euros at the method value (not attributes, which you would have to do one by one, manually)
+
+![image](https://user-images.githubusercontent.com/7238176/126900788-ae5fbc3b-e356-4f26-90e4-35ce6e467499.png)
+
+
 
 
 
